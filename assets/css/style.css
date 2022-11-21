@@ -1863,3 +1863,11 @@ textarea.form-input::-webkit-resizer { display: none; }
   .timeline-text { max-width: 700px; }
 
 }
+#preloader{
+  background: rgb(0, 0, 0) url(cap2loader.gif) no-repeat center center;
+  background-size: n;
+  height: 100%;
+  width: 100%;  
+  position: fixed;
+  z-index: 100;
+}
